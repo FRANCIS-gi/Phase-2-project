@@ -1,13 +1,37 @@
 # Project Lyrics
 
-Develop an elegant React.js Music Application. 
+The app shown in the code is a music player application built with React and Redux. The app allows users to search for and play music, view details about tracks and artists, and discover new music.
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+While the app has similar features to Spotify, it is important to note that it is not a direct competitor to Spotify and may not be better in all respects. Spotify is a well-established music streaming service that provides access to millions of songs, while the app shown in the code is a smaller-scale project focused on implementing a music player with limited features.
+
+That being said, the app shown in the code may be beneficial for those who prefer a simpler, more lightweight music player without the need for a full-fledged music streaming service. Additionally, the app is open source, allowing developers to customize and extend its features as needed.
 
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue.
 Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+
+# Functionality
+This component uses the following components and pages:
+
+# Components
+1. _Searchbar:_ A component that displays a search input field.
+2. _Sidebar:_ A component that displays a navigation menu.
+3. _MusicPlayer:_ A component that displays the music player controls.
+4. _TopPlay:_ A component that displays a list of top tracks.
+ 
+# Pages
+1. _Discover:_ The home page of the application.
+2. _TopArtists:_ A page that displays a list of top artists.
+3. _TopCharts:_ A page that displays a list of top tracks.
+4. _AroundYou:_ A page that displays artists around the user's location.
+5. _ArtistDetails:_ A page that displays details about an artist.
+6. _SongDetails:_ A page that displays details about a track.
+7. _Search:_ A page that displays search results based on a user's input.
+
+The component fetches the activeSong data from the Redux store, and renders the components and pages based on the user's navigation. The Routes component from react-router-dom is used to render different pages based on the user's navigation.
+
+When a user plays a track, the MusicPlayer component is displayed at the bottom of the screen, and the TopPlay component is displayed on the right-hand side of the screen.
 
 
 ## System Requirements
