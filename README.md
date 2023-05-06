@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Lyrics App
 
 The app shown in the code is a music player application built with React and Redux. The app allows users to search for and play music, view details about tracks and artists, and discover new music.
 
@@ -158,3 +158,21 @@ Here we are going to focus on 2. Creating a Topical Branch:
 8. You have successfully created a pull request. Now wait for mentor approval. Once approved, you can merge the pull request.
 
 #
+## NB
+
+1. Use non run dev to start server. 
+2.The project uses Tailwind.
+
+##Tailwind
+
+Tailwind is a utility-first CSS framework designed to speed up the process of creating custom web designs. Unlike traditional CSS frameworks that focus on pre-designed components and templates, Tailwind provides a set of pre-defined utility classes that can be used to quickly style HTML elements.
+
+The idea behind Tailwind is to provide a comprehensive set of CSS classes that map directly to commonly used CSS properties. This allows developers to focus on designing their UI without worrying about the specifics of CSS, and without having to write custom CSS for every element on the page.
+
+Some of the key benefits of using Tailwind include:
+
+- Faster development: With Tailwind, developers can create custom designs much faster than with traditional CSS frameworks, as they can simply apply pre-defined classes to their HTML elements.
+- Consistent design: By using a set of standardized utility classes, Tailwind ensures that the UI will look consistent across the entire application, even if it has been designed by different developers.
+- Customizability: Tailwind provides a wide range of configuration options that allow developers to customize the framework to fit their specific needs, including the ability to define custom utility classes.
+
+Overall, Tailwind is a powerful tool that can help developers create beautiful, functional, and consistent UI designs quickly and efficiently.
