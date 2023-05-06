@@ -163,7 +163,7 @@ Here we are going to focus on 2. Creating a Topical Branch:
 1. Use non run dev to start server. 
 2.The project uses Tailwind.
 
-#Tailwind
+## Tailwind
 
 Tailwind is a utility-first CSS framework designed to speed up the process of creating custom web designs. Unlike traditional CSS frameworks that focus on pre-designed components and templates, Tailwind provides a set of pre-defined utility classes that can be used to quickly style HTML elements.
 
