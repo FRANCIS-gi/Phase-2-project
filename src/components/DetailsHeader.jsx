@@ -31,3 +31,5 @@ const DetailsHeader = ({ artistId, artistData, songData }) => {
 )};
 
 export default DetailsHeader;
+
+                    /*End of code*/
