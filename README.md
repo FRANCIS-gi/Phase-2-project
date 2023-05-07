@@ -24,10 +24,9 @@ This component uses the following components and pages:
 1. _Discover:_ The home page of the application.
 2. _TopArtists:_ A page that displays a list of top artists.
 3. _TopCharts:_ A page that displays a list of top tracks.
-4. _AroundYou:_ A page that displays artists around the user's location.
-5. _ArtistDetails:_ A page that displays details about an artist.
-6. _SongDetails:_ A page that displays details about a track.
-7. _Search:_ A page that displays search results based on a user's input.
+4. _ArtistDetails:_ A page that displays details about an artist.
+5. _SongDetails:_ A page that displays details about a track.
+6. _Search:_ A page that displays search results based on a user's input.
 
 The component fetches the activeSong data from the Redux store, and renders the components and pages based on the user's navigation. The Routes component from react-router-dom is used to render different pages based on the user's navigation.
 
