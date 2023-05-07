@@ -172,3 +172,7 @@ Some of the key benefits of using Tailwind include:
 - Customizability: Tailwind provides a wide range of configuration options that allow developers to customize the framework to fit their specific needs, including the ability to define custom utility classes.
 
 Overall, Tailwind is a powerful tool that can help developers create beautiful, functional, and consistent UI designs quickly and efficiently.
+
+## Hosting
+
+the site is also hosted kive on netlify to view it you can follow this link https://spiffy-lollipop-6ac0ac.netlify.app
