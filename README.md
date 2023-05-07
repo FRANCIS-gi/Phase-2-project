@@ -175,4 +175,4 @@ Overall, Tailwind is a powerful tool that can help developers create beautiful, 
 
 ## Hosting
 
-the site is also hosted kive on netlify to view it you can follow this link https://spiffy-lollipop-6ac0ac.netlify.app
+The site is also hosted kive on netlify, To view it you can follow this link https://spiffy-lollipop-6ac0ac.netlify.app.
