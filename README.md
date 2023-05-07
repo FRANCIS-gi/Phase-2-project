@@ -1,4 +1,4 @@
-# Project Lyrics App
+# Project LyriKs App
 
 The app shown in the code is a music player application built with React and Redux. The app allows users to search for and play music, view details about tracks and artists, and discover new music.
 
