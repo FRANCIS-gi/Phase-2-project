@@ -31,7 +31,7 @@ This component uses the following components and pages:
 
 The component fetches the activeSong data from the Redux store, and renders the components and pages based on the user's navigation. The Routes component from react-router-dom is used to render different pages based on the user's navigation.
 
-When a user plays a track, the MusicPlayer component is displayed at the bottom of the screen, and the TopPlay component is displayed on the right-hand side of the screen.
+When a user plays a track, the MusicPlayer component is displayed at the bottom of the screen, and the TopPlay component is displayed on the right-hand side of the screen
 
 
 ## System Requirements
