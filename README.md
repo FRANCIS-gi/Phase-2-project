@@ -160,7 +160,7 @@ Here we are going to focus on 2. Creating a Topical Branch:
 #
 ## NB
 
-1. Use non run dev to start server. 
+1. Use npn run dev to start server. 
 2.The project uses Tailwind.
 
 ## Tailwind
